@@ -1,4 +1,4 @@
-Currently a CS masters student at the University of Strathclyde, previously at Elpha Secure, Amazon, and Microsoft. I studied Computer Science and Math at The University of British Columbia. 
+Just cutting about the gaff
 
 🔭 Please visit <a href="https://kiggins26.github.io" target="_blank">https://kiggins26.github.io
 
